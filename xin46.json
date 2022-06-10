@@ -1,7 +1,7 @@
 ﻿{
 //"wallpaper": "http://xin46.evai.pl/hdf.jpg",
   "wallpaper": "",
-  "spider": "http://xin46.evai.pl/custom_spider.jar",
+  "spider": "https://mkforever.github.io/j/custom_spider.jar",
   "sites": [
     {
       "key": "2345_spider",
