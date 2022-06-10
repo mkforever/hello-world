@@ -64,7 +64,7 @@
       "filterable": 0,
       "ext": "أويتي"
     },
-    {
+    //{
       "key": "csp_AliPanSou",
       "name": "🐱 喵狸盘搜",
       "type": 3,
@@ -74,7 +74,7 @@
       "filterable": 0,
       "ext": "مواء الراكون"
     },
-    {
+    //{
       "key": "csp_GitCafe",
       "name": "🦊 小纸条",
       "type": 3,
