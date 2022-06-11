@@ -65,26 +65,6 @@
       "ext": "أويتي"
     },
     {
-      "key": "csp_AliPanSou",
-      "name": "🐱 喵狸盘搜",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "مواء الراكون"
-    },
-    {
-      "key": "csp_GitCafe",
-      "name": "🦊 小纸条",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "ملاحظة"
-    },
-    {
       "key": "csp_Concert",
       "name": "🎤 演唱会",
       "type": 3,
