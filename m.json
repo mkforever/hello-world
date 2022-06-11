@@ -132,7 +132,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ta2ZvcmV2ZXIuZ2l0aHViLmlvL2wvbGl2ZTMudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9ta2ZvcmV2ZXIuZ2l0aHViLmlvL2wvbGl2ZS50eHQ="
           ]
         }
       ]
