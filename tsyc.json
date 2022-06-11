@@ -101,6 +101,44 @@
       "filterable": 1
     },
     {
+      "key":"csp_biubiu_厂长资源-蓝光",
+      "name":"🥒厂长资源-蓝光(XB)",
+      "type":3,"api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://mkforever.github.io/biubiu/厂长资源-蓝光.json"
+    },
+    {
+      "key":"csp_biubiu_奈菲影院",
+      "name":"🥒奈菲影院(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://mkforever.github.io/biubiu/奈菲影院.json"
+    },
+    {
+      "key":"csp_biubiu_奇优影院[不支持搜]",
+      "name":"🥒奇优影院（不支持搜）(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://mkforever.github.io/biubiu/奇优影院（不支持搜）.json"
+    },
+    {
+      "key":"csp_biubiu_YYDS影院",
+      "name":"🥒YYDS影院(XB)",
+      "type":3,"api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://mkforever.github.io/biubiu/YYDS影院.json"
+    },
+    {
       "key": "csp_biubiu_ysgc",
       "name": "影视工厂(XB)",
       "type": 3,
@@ -108,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.nite07.com/cat/x/ysgc.bmp"
+      "ext": "https://mkforever.github.io/biubiu/ysgc.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -118,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.nite07.com/cat/x/555.bmp"
+      "ext": "https://mkforever.github.io/biubiu/555dy.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -128,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.nite07.com/cat/x/lezhutv.bmp"
+      "ext": "https://mkforever.github.io/biubiu/lezhutv.json"
     },
     {
       "key": "789看片",
@@ -138,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.nite07.com/cat/s/x/789ba.bmp"
+      "ext": "https://mkforever.github.io/p/789ba.json"
     },
     {
       "key": "Gimy",
@@ -148,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.nite07.com/cat/s/x/gimy.bmp"
+      "ext": "https://mkforever.github.io/p/gimy.json"
     },
     {
       "key": "Age动漫",
@@ -158,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.nite07.com/cat/s/x/agefans.bmp"
+      "ext": "https://mkforever.github.io/p/agefans.json"
     },
     {
       "key": "300看世界",
@@ -504,5 +542,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "img+https://raw.nite07.com/cat/doraAmen"
+  "spider": "img+https://mkforever.github.io/doraAmen"
 }
