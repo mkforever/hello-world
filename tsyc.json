@@ -255,23 +255,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
-  //{
+  {
       "key": "斗鱼",
       "name": "斗鱼(PHP)",
       "type": 3,
-      "api": "http://jb001.eu5.org/tmp/t/u/douyu.php"
+      "api": "http://jb001.eu5.org/tmp/t/u/douyu.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-    },
-    {
-      "key": "csp_77",
-      "name": "七七🏀",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "csp_xpath_网络搜集库huaya",
